@@ -24,3 +24,8 @@ then compute the install duration
 
 ### second step:
 open finder, look the space usage on disk!
+
+
+
+# where is the package.json from?
+copy from vitejs/vite package.json.
