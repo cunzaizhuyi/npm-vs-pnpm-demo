@@ -1,4 +1,4 @@
-# npm-demo
+# npm-vs-pnpm-demo
 npm demo for compare with pnpm
 
 
