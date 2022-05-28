@@ -6,7 +6,8 @@ you can use this repo to cpmpare npm adn pnpm in two aspect: one is install time
 
 # how to do?
 
-* first step:
+### first step:
+
 use npm:
 ```
 npm i
@@ -21,5 +22,5 @@ pnpm install
 then compute the install duration
 
 
-* second step:
+### second step:
 open finder, look the space usage on disk!
